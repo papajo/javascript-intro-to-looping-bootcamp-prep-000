@@ -18,5 +18,8 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(num) {
+  do {
+    
+  } while(num < 5)
   
 }
